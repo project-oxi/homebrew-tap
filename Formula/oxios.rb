@@ -6,7 +6,7 @@ class Oxios < Formula
   license "MIT"
 
   # Single release target: aarch64-apple-darwin (self-hosted ARM64 runner).
-  depends_on arch: :aarch64_macos
+  depends_on arch: :arm64
 
   livecheck do
     url :stable
