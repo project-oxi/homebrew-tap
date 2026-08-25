@@ -1,8 +1,8 @@
 class Oxios < Formula
   desc "Agent Operating System — AI agents as Unix processes"
   homepage "https://github.com/project-oxi/oxios"
-  url "https://github.com/project-oxi/oxios/releases/download/v1.43.0/oxios-aarch64-apple-darwin.tar.gz"
-  sha256 "5fe3a2cd00fbb6c23f661ee5e571ca00393c56382436e9c8bafbeb1171cd70f4"
+  url "https://github.com/project-oxi/oxios/releases/download/v1.44.0/oxios-aarch64-apple-darwin.tar.gz"
+  sha256 "5daa93b6ac8fab63c6e207e7b1ad9b320156c3d7d8d4c3980c9ec0132e9c445c"
   license "MIT"
 
   # Single release target: aarch64-apple-darwin (self-hosted ARM64 runner).
